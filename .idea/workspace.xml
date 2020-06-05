@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48241fa7-feb1-4dbc-ab03-e0a6993b63e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.localized" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.~lock.Priya Singh CV PSE copy#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.~lock.Priya Singh CV PSE#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Durga Python .pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Machine-Learning/trading_RL_yahoo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/.idea/NewApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/NewApp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/NewApp/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/NewApp/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/NewApp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/NewApp/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/languages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/languages/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/languages/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/languages/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/languages/migrations/0002_language_parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/languages/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/languages/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/languages/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/languages/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/languages/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/languages/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewApp/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya Singh CV " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya Singh CV .docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya Singh CV PSE.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya Singh CV.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya Singh Resume.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Priya Singh.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Interview/.~lock.Poorvi Gupta Resume.docx#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Interview/.~lock.Priya Singh CV #" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Interview/.~lock.Priya Singh CV PSE#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Interview/.~lock.Priya Singh CV.doc#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Interview/.~lock.Production support PRIYA.docx#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Interview/Job description" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Interview/Poorvi Gupta Resume.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Interview/Priya Singh CV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Interview/Priya Singh CV PSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Interview/Priya Singh CV PSE copy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/Also Please prepare on these also.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/PSE interview Questions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/Product Solution Engineeer.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/Quiz.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/linux commands.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/8314-Postman-User-Guide.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/Also Please prepare on these also.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/Asish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/IMG-20180115-WA0012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/L1 interview questions.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/L1_Jena.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/New Microsoft Word Document.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/PSE Model topics.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/Prep Questions.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/Prep for Warehouse team.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/Question Asked me in FLIPKART.DOCX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/Quiz.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/Set 1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/Subrajit2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/Subrajit_UNIxxxxxx.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/prep pses.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/prep11.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/L1 Job/prepmaterialsteksystems/red line.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Linux/Bash Commands All" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Python material/1st python project copy.odt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Python material/1st python project.odt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Python material/DJango languages project.odt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Python material/Python Book doubts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Python material/Python Interview question" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/SQL Joins Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/SQL/ACID imp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/SQL/ACId.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/SQL/Database/Lab Sheet/DBS_oracle_lab4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/SQL/Database/Lab Sheet/Database queries.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/SQL/Database/Lab Sheet/Queries DinkuSheet/~WRL0934.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/SQL/Database/Lab Sheet/doubts.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/SQL/Database/Lab Sheet/~$doubts.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/SQL/Database/New SQL Queries from the very begening.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/SQL/Database/SQL Queries.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/SQL/SQL Question" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Yogesh python materila/Effective Python (2015).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Yogesh python materila/In.Easy.Steps.Limited.Python.in.Easy.Steps.1840785969.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Yogesh python materila/Programming with Python [2017].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Yogesh python materila/pythoncrashcourse.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/technical vocab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/technical vocab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seva/Akhand Gyan/1 Jan Hindi 2012.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seva/Akhand Gyan/2 Feb Hindi 2012.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seva/Akhand Gyan/3 March 2012.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seva/Akhand Gyan/4 APRIL HINDI 2012 (2).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seva/Akhand Gyan/5 MAY HINDI 2012.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seva/Akhand Gyan/6 JUN HINDI 2012.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seva/Akhand Gyan/7 July HINDI 2012.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seva/Variable.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seva/Week 2 Variable" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seva/Week 2 Variable.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seva/Week 3 Variable Seva" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seva/Week 5 Variable Seva.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seva/Week 6 Report Card.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seva/Week 7 Variable Report Card.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seva/Week 8 Variable Report Card (1).xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seva/Week 9 Variable Report Card.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vernacularsolutions_engg_ssignment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/.idea/api_example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/api_example/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/api_example/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/api_example/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/api_example/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/languages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/languages/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/languages/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/languages/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/languages/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/languages/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/languages/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/languages/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/languages/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/languages/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_example/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bigfoot_fm_pr_correction_backfill.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/.idea/python-rest-api-djago-rest-framework-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/note/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/note/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/note/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/note/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/note/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/note/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/note/note_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/note/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/note/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/note/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/samplenote/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/samplenote/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/samplenote/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-rest-api-djago-rest-framework-master/samplenote/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shipments.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../status.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trading_RL_yahoo.zip" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yahoo_live_rl_test1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yahoo_live_rl.pynb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1860">
+              <caret line="124" selection-start-line="124" selection-end-line="124" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/My first notebook.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>chromedriver</find>
+      <find>state_size</find>
+      <find>driver</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/yahoo_live_rl.py" />
+        <option value="$PROJECT_DIR$/yahoo_live_rl_test (2).py" />
+        <option value="$PROJECT_DIR$/train.py" />
+        <option value="$PROJECT_DIR$/trading_bot/agent.py" />
+        <option value="$PROJECT_DIR$/yahoo_live_rl_test01.py" />
+        <option value="$PROJECT_DIR$/selenium.py" />
+        <option value="$USER_HOME$/Downloads/yahoo_live_rl_test1.py" />
+        <option value="$PROJECT_DIR$/yahoo_live_rl_test.py" />
+        <option value="$PROJECT_DIR$/yahoo_live_rl_test02.py" />
+        <option value="$PROJECT_DIR$/yahoo_live_rl_test1.py" />
+        <option value="$PROJECT_DIR$/priya.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="842" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trading_RL_yahoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trading_RL_yahoo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.priya">
+    <configuration name="priya" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="trading_RL_yahoo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/priya.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yahoo_live_rl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="trading_RL_yahoo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yahoo_live_rl.pynb" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yahoo_live_rl_test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="trading_RL_yahoo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yahoo_live_rl_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yahoo_live_rl_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="trading_RL_yahoo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yahoo_live_rl_test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yahoo_live_rl_test02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="trading_RL_yahoo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yahoo_live_rl_test02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.yahoo_live_rl_test" />
+      <item itemvalue="Python.yahoo_live_rl_test02" />
+      <item itemvalue="Python.yahoo_live_rl" />
+      <item itemvalue="Python.yahoo_live_rl_test (1)" />
+      <item itemvalue="Python.priya" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.priya" />
+        <item itemvalue="Python.yahoo_live_rl_test" />
+        <item itemvalue="Python.yahoo_live_rl_test02" />
+        <item itemvalue="Python.yahoo_live_rl" />
+        <item itemvalue="Python.yahoo_live_rl_test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="842" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2114165" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32933334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.456" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32933334" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.38933334" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32933334" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2114165" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32933334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.456" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32933334" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.38933334" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32933334" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/untitled/trading_RL_yahoo/venv/lib/python3.7/site-packages/selenium/webdriver/chrome/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="47" column="10" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trading_bot/methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="48" column="62" selection-start-line="48" selection-start-column="58" selection-end-line="48" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trading_bot/agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89">
+          <caret line="87" column="71" selection-start-line="87" selection-start-column="71" selection-end-line="87" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/AAPL.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24992" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/visualization.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/GOOG.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/MSFT.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/NFLX.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/TSLA.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3014" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chromedriver.exe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/GOOG_2019.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/GOOG_2018.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/AMZN.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/yahoo_live_rl_test (1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-784">
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yahoo_live_rl_test (2).py" />
+    <entry file="file://$USER_HOME$/Downloads/yahoo_live_rl_test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="134" column="17" lean-forward="true" selection-start-line="134" selection-start-column="17" selection-end-line="134" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/yahoo_live_rl_test (2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yahoo_live_rl_test.py" />
+    <entry file="file://$PROJECT_DIR$/yahoo_live_rl_test01.py" />
+    <entry file="file://$PROJECT_DIR$/visualize.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/priya.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yahoo_live_rl_test02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yahoo_live_rl_test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yahoo_live_rl.pynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/My first notebook.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
